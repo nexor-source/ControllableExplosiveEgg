@@ -3,7 +3,6 @@ using System.Reflection;
 using BepInEx;
 using BepInEx.Configuration;
 using HarmonyLib;
-using Unity.Netcode;
 using UnityEngine;
 
 namespace ControllableExplosiveEgg
@@ -14,7 +13,7 @@ namespace ControllableExplosiveEgg
     {
         private const string modGUID = "nexor.ControllableExplosiveEgg";
         private const string modName = "ControllableExplosiveEgg";
-        private const string modVersion = "0.0.1";
+        private const string modVersion = "0.0.2";
         
         private readonly Harmony harmony = new Harmony(modGUID);
         public ConfigEntry <float> my_explode_chance;
@@ -32,10 +31,10 @@ namespace ControllableExplosiveEgg
             my_explode_chance = ((BaseUnityPlugin)this).Config.Bind<float>("Controllable Explosive Egg Config",
                 "Egg Explode Chance (%)", 
                 16, 
-                "你可以修改彩蛋爆炸的概率，它必须是一个 [0,100) 以内的数，大于等于100恒不爆炸\n" +
-                "You can modify the probability of an egg exploding, which must be a number within [0,100)." +
-                "And a number greater than or equal to 100 will never explode");
-            harmony.PatchAll();
+                "你可以在这里修改彩蛋爆炸的概率\n" +
+                "You can modify the probability of an egg exploding here");
+            if (my_explode_chance.Value >= 99.99f) my_explode_chance.Value = 99.99f;
+                harmony.PatchAll();
             ((ControllableExplosiveEgg)this).Logger.LogInfo((object)"ControllableExplosiveEgg 0.0.1 loaded.");
         }
     }

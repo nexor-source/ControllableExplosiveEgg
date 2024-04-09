@@ -4,3 +4,9 @@ D:\coding\vs\MySecondBepInExMod\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.
 D:\coding\vs\MySecondBepInExMod\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.csproj.CoreCompileInputs.cache
 D:\coding\vs\MySecondBepInExMod\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.dll
 D:\coding\vs\MySecondBepInExMod\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.pdb
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\bin\Debug\MySecondBepInExMod.dll
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\bin\Debug\MySecondBepInExMod.pdb
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.dll
+C:\Users\ADMIN\Documents\GitHub\ControllableExplosiveEgg\MySecondBepInExMod\obj\Debug\MySecondBepInExMod.pdb
