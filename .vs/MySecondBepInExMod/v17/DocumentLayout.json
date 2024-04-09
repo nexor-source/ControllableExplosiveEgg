@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\vs\\MySecondBepInExMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E4B163-A712-4F97-8E38-4BF1B885AFD3}|MySecondBepInExMod\\MySecondBepInExMod.csproj|D:\\coding\\vs\\MySecondBepInExMod\\mysecondbepinexmod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E4B163-A712-4F97-8E38-4BF1B885AFD3}|MySecondBepInExMod\\MySecondBepInExMod.csproj|solutionrelative:mysecondbepinexmod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\coding\\vs\\MySecondBepInExMod\\MySecondBepInExMod\\Class1.cs",
+              "RelativeDocumentMoniker": "MySecondBepInExMod\\Class1.cs",
+              "ToolTip": "D:\\coding\\vs\\MySecondBepInExMod\\MySecondBepInExMod\\Class1.cs",
+              "RelativeToolTip": "MySecondBepInExMod\\Class1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:18:07.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
